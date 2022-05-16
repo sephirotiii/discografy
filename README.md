@@ -1,2 +1,4 @@
 # discografy
 Record Shop
+## Requisitos
+
